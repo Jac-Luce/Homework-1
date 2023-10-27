@@ -1,0 +1,67 @@
+main {
+    width: 700px;
+    margin: auto;
+}
+
+
+#Symply-logo {
+    text-align: center;
+}
+
+.part-of {
+    text-align: center;
+    border-top: 1.5px solid ;
+    font-size: 15px;
+    background-color: antiquewhite;
+    border-top-color: orange;
+    height: 45px;
+    width: 100%;
+    margin-top: inherit;
+}
+
+.part-of p{
+    color: teal;
+}
+
+span {
+    font-weight: bold;
+}
+
+.content {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+
+.content p {
+    text-align: justify;
+}
+
+.sally {
+    text-align: center;
+    color: gray;
+}
+
+.featured {
+    border-left: 1.5px solid;
+    border-left-color: orange;
+    padding-left: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.featured p {
+    color: red;
+    font-weight: 150 ;
+}
+
+.recipe {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.ingredients {
+    border-bottom: 1px solid;
+    border-bottom-color: lightskyblue;
+}
